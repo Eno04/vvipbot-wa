@@ -18,10 +18,17 @@ const apibarbar = 'Apikey mhankbarbar';
 const BotName = 'VVIPINDO BOT'; 
 const instagram = 'agus_alnsyh71- kaelMk_'; 
 const aktif = 'Kapan bot aktif';
-const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
+const vcard = 'BEGIN:VCARD\n' //
+        "clientID": "pwyT6jeGBfqYtK3YEOdVSw==",
+        "serverToken": "1@VboeEV4f+9LU46ClGXk75ASFsxbAShv7O1aivUQ5e0JLusqw8l0Mt2P
+vM6B2pXeCxI7gJK8pQ+xV1g==",
+        "clientToken": "DofMjbc14X/DK3dXCTKbKQcmIiezDhKVG50l39QbywA=",
+        "encKey": "15diqCRekRG5ZGN0z8dxqH/xlI8iz8xk+p7Q/3G+d80=",
+        "macKey": "dx7p5knDlMlfY4Bg7rYCevCZ6lAMAh56viZA+qH04ew="
+}
             + 'VERSION:3.0\n' 
-            + 'FN:Agus\n' // Nama kamu
-            + 'ORG:VVIPINDO;\n' // Nama bot
+            + 'FN:Agus\n' // Eno DH
+            + 'ORG:VVIPINDO;\n' // IGUN BABI
             + 'TEL;type=CELL;type=VOICE;waid=6289613469459:+62 896-1346-9459\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
