@@ -18,11 +18,11 @@ const apibarbar = 'Apikey mhankbarbar';
 const BotName = 'VVIPINDO BOT'; 
 const instagram = 'agus_alnsyh71- kaelMk_'; 
 const aktif = 'Kapan bot aktif';
-const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
+const vcard = 'BEGIN:VCARD\n' // VCARD\nVERSION:3.0\nN:XL;${pushname},;;;\nFN:${pushname},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': thumb, thumbnail: thum
             + 'VERSION:3.0\n' 
-            + 'FN:Agus\n' // Nama kamu
-            + 'ORG:VVIPINDO;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6289613469459:+62 896-1346-9459\n' //Nomor whatsapp kamu
+            + 'FN:Agus\n' // DH
+            + 'ORG:VVIPINDO;\n' // IGUN
+            + 'TEL;type=CELL;type=VOICE;waid=6289613469459:+62 896-1346-9459\n' //6283175371513
             + 'END:VCARD'
 const
 {
